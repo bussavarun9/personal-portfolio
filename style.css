@@ -519,3 +519,12 @@ footer{
 #certifications .card .btn.github {
   margin-top: 15px;
 }
+
+
+.hero-text p {
+  margin-bottom: 8px;
+}
+
+.hero-text .buttons {
+  margin-top: 5px;
+}
