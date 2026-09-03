@@ -507,11 +507,9 @@ footer{
 
 
 #certifications .card {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+  min-height: 220px;
 }
 
 #certifications .card .btn.github {
-  margin-top: 20px;
+  margin-top: auto;
 }
