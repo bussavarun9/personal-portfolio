@@ -78,7 +78,7 @@ revealCards();
 // TYPING EFFECT
 // =========================
 const text =
-"Computer Science and Engineering student passionate about MERN stack development, Java, SQL, Azure DevOps, and Tableau. I enjoy building responsive, user-friendly web applications and continuously exploring modern technologies through hands-on projects.";
+"Computer Science and Engineering student passionate about MERN stack development, Java,Python, SQL, Azure DevOps, and Tableau. I enjoy building responsive, user-friendly web applications and continuously exploring modern technologies through hands-on projects.";
 
 let i = 0;
 
