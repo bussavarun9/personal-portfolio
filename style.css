@@ -180,29 +180,29 @@ nav{
    HERO IMAGE
 ========================= */
 
-.hero-image{
-  flex:1;
-  display:flex;
-  justify-content:center;
+.hero-image {
+  flex: 0 0 280px;
+  display: flex;
+  justify-content: center;
 }
 
-.hero-image img{
-  width:220px;
-  height:220px;
-  object-fit:cover;
-  border-radius:35px;
-  border:4px solid #38bdf8;
+.hero-image img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 15px;
+  border: 4px solid #38bdf8;
 
   box-shadow:
-  0 0 20px rgba(56,189,248,0.4),
-  0 0 60px rgba(56,189,248,0.3),
-  0 0 120px rgba(59,130,246,0.2);
+    0 0 20px rgba(56,189,248,0.4),
+    0 0 60px rgba(56,189,248,0.3),
+    0 0 120px rgba(59,130,246,0.2);
 
-  transition:0.4s;
+  transition: 0.4s;
 }
 
-.hero-image img:hover{
-  transform:scale(1.03);
+.hero-image img:hover {
+  transform: scale(1.03);
 }
 
 /* =========================
