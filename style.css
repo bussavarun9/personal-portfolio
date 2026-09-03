@@ -190,16 +190,16 @@ nav{
 
 .hero {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   gap: 40px;
 }
+
 .hero-image {
   flex: 0 0 auto;
   margin-left: auto;
   display: flex;
   justify-content: flex-end;
-  transform: translateY(-30px);
 }
 
 .hero-image img {
@@ -215,6 +215,10 @@ nav{
     0 0 120px rgba(59,130,246,0.2);
 
   transition: 0.4s;
+}
+
+.hero-image img:hover {
+  transform: scale(1.03);
 }
 
 
