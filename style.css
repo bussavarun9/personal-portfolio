@@ -180,10 +180,17 @@ nav{
    HERO IMAGE
 ========================= */
 
-.hero-image {
-  flex: 0 0 280px;
+.hero {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+.hero-image {
+  flex: 0 0 auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .hero-image img {
@@ -201,9 +208,6 @@ nav{
   transition: 0.4s;
 }
 
-.hero-image img:hover {
-  transform: scale(1.03);
-}
 
 /* =========================
    SECTIONS
