@@ -506,10 +506,12 @@ footer{
 }
 
 
-/* Certificate buttons */
-.card .btn.github {
-  padding: 10px 20px;
-  font-size: 14px;
+#certifications .card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#certifications .card .btn.github {
   margin-top: 20px;
-  width: fit-content;
 }
