@@ -199,6 +199,7 @@ nav{
   margin-left: auto;
   display: flex;
   justify-content: flex-end;
+  transform: translateY(-30px);
 }
 
 .hero-image img {
