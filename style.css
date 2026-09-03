@@ -188,12 +188,7 @@ nav{
    HERO IMAGE
 ========================= */
 
-.hero {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 30px;
-}
+
 
 .hero-text {
   flex: 1;
@@ -202,11 +197,10 @@ nav{
 .hero-image {
   flex: 0 0 auto;
   margin-left: auto;
-  margin-top: 0;
+  margin-top: -20px;
   display: flex;
   justify-content: flex-end;
 }
-
 .hero-image img {
   width: 260px;
   height: 260px;
