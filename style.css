@@ -176,6 +176,14 @@ nav{
   box-shadow:0 0 30px rgba(56,189,248,0.8);
 }
 
+.hero-text p {
+  margin-bottom: 15px;
+}
+
+.hero-text .buttons {
+  margin-top: 10px;
+}
+
 /* =========================
    HERO IMAGE
 ========================= */
@@ -521,10 +529,3 @@ footer{
 }
 
 
-.hero-text p {
-  margin-bottom: 8px;
-}
-
-.hero-text .buttons {
-  margin-top: 5px;
-}
