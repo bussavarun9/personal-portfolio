@@ -504,3 +504,12 @@ footer{
 
   transform:translateY(0);
 }
+
+
+/* Certificate buttons */
+.card .btn.github {
+  padding: 10px 20px;
+  font-size: 14px;
+  margin-top: 20px;
+  width: fit-content;
+}
