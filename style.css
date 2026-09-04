@@ -125,15 +125,15 @@ nav{
 
 
 .hero-photo{
-  width:250px;
-  height:250px;
-  flex:0 0 250px;
+  width:280px;
+  height:280px;
+  flex:0 0 280px;
   margin-top:20px;
 }
 
 .hero-photo img{
-  width:250px;
-  height:250px;
+  width:280px;
+  height:280px;
   display:block;
   object-fit:cover;
   border-radius:18px;
