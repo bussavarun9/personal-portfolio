@@ -96,6 +96,6 @@ This project helps you understand:
 
 ---
 
-## 📜 License
+## 📜 Notice
 
-This project is open-source and free to use for learning and personal projects.
+This project is showcased solely for portfolio and skill-demonstration purposes. Please do not copy, reproduce, or redistribute the project without my permission.
