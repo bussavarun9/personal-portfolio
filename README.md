@@ -56,7 +56,7 @@ Personal-Portfolio/
 
 ## 🚀 Live Demo
 
-👉 https://personal-portfolio-zeta-rosy.vercel.app/
+👉 https://varunbussa-portfolio.vercel.app/
 
 ---
 
